@@ -1,7 +1,9 @@
 # ReFramework-WordIndexes
 Solution to a problem presented in a real interview, using ReFramework, PDF file, text files and MS Excel. 
 
-You are free to use your own creative solutions but the following needs to be applied and show in your coding.
+The technology used in this project is UiPath 2020.10.2
+
+The following needs to be applied and show in your coding.
 -	RE – Framework
 -	Using a Queue
 -	Best practices and standards
